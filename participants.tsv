@@ -1,4 +1,5 @@
-sub-01  M	18
+participant_id	sex	age
+sub-01	M	18
 sub-02	F	23
 sub-03	F	21
 sub-04	F	24
